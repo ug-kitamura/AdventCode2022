@@ -4,6 +4,7 @@
 
 [Advent of Code](https://adventofcode.com/)
 
+![image](https://user-images.githubusercontent.com/121484018/209648136-3562163e-ed9c-487e-8dcd-bd7feae86abc.png)
 
 
 ## How to set up python
